@@ -1,0 +1,19 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "simple node examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njain629/nodejs.git"
+  },
+  "author": "Naman Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njain629/nodejs/issues"
+  },
+  "homepage": "https://github.com/njain629/nodejs#readme"
+}
