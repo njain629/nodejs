@@ -10,8 +10,8 @@ module.exports= (x,y,callback)=>{
     setTimeout(()=>
     callback(null,
      {
-       perimeter:(x,y)=>(2*(x+y));
-       area:(x,y)=>(x*y);
+       perimeter:()=>(2*(x+y));
+       area:()=>(x*y);
      }),
      2000);
   }
